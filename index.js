@@ -14,4 +14,5 @@ const createFareMultiplier = function(integer) {
   }
 }
 
+console.log(createFareMultiplier(2))
 const fareDoubler = createFareMultiplier()(2)
